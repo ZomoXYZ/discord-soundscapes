@@ -1,8 +1,8 @@
 {
   "name": "discord-soundscapes",
   "version": "1.0.0",
-  "description": "- you can add a bunch of music/sound effects to play/pause at will\r - you can set up \"scenes\" thatll auto switch what music/effects are available on screen\r - youd log in with discord so any \"scenes\" and stuff would be saved automatically\r - sends sound through music bot in discord",
-  "main": "index.js",
+  "description": "",
+  "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/ZomoXYZ/discord-soundscapes.git"
   },
-  "author": "",
+  "author": "ashley zomo",
   "license": "Unlicense",
   "bugs": {
     "url": "https://github.com/ZomoXYZ/discord-soundscapes/issues"
