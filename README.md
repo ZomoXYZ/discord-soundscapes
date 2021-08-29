@@ -1,4 +1,4 @@
-# discord-soundscape
+# discord-soundscapes
 
 ## idea
 
